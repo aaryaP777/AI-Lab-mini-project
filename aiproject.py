@@ -1,3 +1,5 @@
+# CODE FOR REAL-TIME VIDEO BASED PATH FINDING
+
 # import cv2
 # import numpy as np
 # import networkx as nx
@@ -82,6 +84,8 @@
 
 # cap.release()
 # cv2.destroyAllWindows()
+
+#CODE FOR SIMULATION USING STATIC IMAGES
 
 import cv2
 import numpy as np
