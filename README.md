@@ -1,5 +1,16 @@
-# safe_path_lib
+# 🔥 Safe Path Finder in Smoke-Filled Environments
 
-A Python library to detect safe paths from camera feeds, useful for robots, escape route visualization, and safety applications.
+**safe_path_lib** is a Python-based AI library designed to detect and visualize the safest path in real-time from a smoke-filled or low-visibility environment using a video or camera feed.
 
-## Installation
+Built using `OpenCV`, `NetworkX`, and `NumPy`, it simulates evacuation guidance by identifying obstacle-free zones and generating a clear escape path with depth-aware visual overlays.
+
+---
+
+## 🚀 Features
+
+- 🧠 Real-time smoke-aware pathfinding
+- 🔍 Adaptive obstacle detection in low visibility
+- 🎯 A* algorithm for shortest path routing
+- 🌀 Depth simulation with vanishing point visualization
+- 📦 Modular design for integration in embedded systems, IoT cameras, or smart safety apps
+- ✅ Ready to run on webcams or pre-recorded video
