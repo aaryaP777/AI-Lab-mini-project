@@ -14,3 +14,10 @@ Built using `OpenCV`, `NetworkX`, and `NumPy`, it simulates evacuation guidance 
 - 🌀 Depth simulation with vanishing point visualization
 - 📦 Modular design for integration in embedded systems, IoT cameras, or smart safety apps
 - ✅ Ready to run on webcams or pre-recorded video
+
+
+## Group Members
+
+- Aarya Patil
+- Adysha Subhadarsini
+- Nikunj Maheswari
