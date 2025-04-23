@@ -9,7 +9,7 @@ import numpy as np
 
 logging.basicConfig(level=logging.INFO)
 
-# Add path to import your library
+# include the library
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from safe_path_lib import (
